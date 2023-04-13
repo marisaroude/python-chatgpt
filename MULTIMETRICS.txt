@@ -1,0 +1,217 @@
+PRIMER MULTIMETRIC:
+PS C:\Users\Roxana Ramimultimetric chatgpt.pyo\FACU\3ER AÑO\INGENIERIA DE SW II\2023\python-chatgpt>
+{
+  "files": {
+    "C:\\Users\\Roxana Ramirez\\OneDrive\\Escritorio\\FACU\\3ER A\u00d1O\\INGENIERIA DE SW II\\2023\\python-chatgpt\\chatgpt.py": {
+      "comment_ratio": 14.569313593539704,
+      "cyclomatic_complexity": 8,
+      "fanout_external": 2,
+      "fanout_internal": 0,
+      "halstead_bugprop": 0.6346613825326376,
+      "halstead_difficulty": 21.0,
+      "halstead_effort": 39983.66709955617,
+      "halstead_timerequired": 2221.3148388642317,
+      "halstead_volume": 1903.9841475979129,
+      "lang": [
+        "Python"
+      ],
+      "loc": 79,
+      "operands_sum": 156,
+      "operands_uniq": 52,
+      "operators_sum": 159,
+      "operators_uniq": 14
+    }
+  },
+  "overall": {
+    "comment_ratio": 14.569313593539704,
+    "cyclomatic_complexity": 8,
+    "fanout_external": 2,
+    "fanout_internal": 0,
+    "halstead_bugprop": 0.6346613825326376,
+    "halstead_difficulty": 21.0,
+    "halstead_effort": 39983.66709955617,
+    "halstead_timerequired": 2221.3148388642317,
+    "halstead_volume": 1903.9841475979129,
+    "loc": 79,
+    "maintainability_index": 59.10608456476311,
+    "operands_sum": 156,
+    "operands_uniq": 52,
+    "operators_sum": 159,
+    "operators_uniq": 14,
+    "pylint": 100.0,
+    "tiobe": 86.9009900990099,
+    "tiobe_compiler": 100.0,
+    "tiobe_complexity": 12.673267326732674,
+    "tiobe_coverage": 100.0,
+    "tiobe_duplication": 100.0,
+    "tiobe_fanout": 100.0,
+    "tiobe_functional": 100.0,
+    "tiobe_security": 100.0,
+    "tiobe_standard": 100.0
+  },
+  "stats": {
+    "max": {
+      "comment_ratio": 14.569313593539704,
+      "cyclomatic_complexity": 8,
+      "fanout_external": 2,
+      "fanout_internal": 0,
+      "halstead_bugprop": 0.6346613825326376,
+      "halstead_difficulty": 21.0,
+      "halstead_effort": 39983.66709955617,
+      "halstead_timerequired": 2221.3148388642317,
+      "halstead_volume": 1903.9841475979129,
+      "loc": 79,
+      "operands_sum": 156,
+      "operands_uniq": 52,
+      "operators_sum": 159,
+      "operators_uniq": 14
+    },
+    "mean": {
+      "comment_ratio": 14.569313593539704,
+      "cyclomatic_complexity": 8,
+      "fanout_external": 2,
+      "fanout_internal": 0,
+      "halstead_bugprop": 0.6346613825326376,
+      "halstead_difficulty": 21.0,
+      "halstead_effort": 39983.66709955617,
+      "halstead_timerequired": 2221.3148388642317,
+      "halstead_volume": 1903.9841475979129,
+      "loc": 79,
+      "operands_sum": 156,
+      "operands_uniq": 52,
+      "operators_sum": 159,
+      "operators_uniq": 14
+    },
+    "median": {
+      "comment_ratio": 14.569313593539704,
+      "cyclomatic_complexity": 8,
+      "fanout_external": 2,
+      "fanout_internal": 0,
+      "halstead_bugprop": 0.6346613825326376,
+      "halstead_difficulty": 21.0,
+      "halstead_effort": 39983.66709955617,
+      "halstead_timerequired": 2221.3148388642317,
+}
+
+
+
+
+
+SEGUNDO MULTIMETRIC:
+PS C:\Users\Roxana Ramirez\OneDrive\Escritorio\FACU\3ER AÑO\INGENIERIA DE SW II\2023> multimetric probando.py
+{
+  "files": {
+    "C:\\Users\\Roxana Ramirez\\OneDrive\\Escritorio\\FACU\\3ER A\u00d1O\\INGENIERIA DE SW II\\2023\\probando.py": {
+      "comment_ratio": 34.32060275396207,
+      "cyclomatic_complexity": 8,
+      "fanout_external": 2,
+      "fanout_internal": 0,
+      "halstead_bugprop": 0.6346613825326376,
+      "halstead_difficulty": 21.0,
+      "halstead_effort": 39983.66709955617,
+      "halstead_timerequired": 2221.3148388642317,
+      "halstead_volume": 1903.9841475979129,
+      "lang": [
+        "Python"
+      ],
+      "loc": 77,
+      "operands_sum": 156,
+      "operands_uniq": 52,
+      "operators_sum": 159,
+      "operators_uniq": 14
+    }
+  },
+  "overall": {
+    "comment_ratio": 34.32060275396207,
+    "cyclomatic_complexity": 8,
+    "fanout_external": 2,
+    "fanout_internal": 0,
+    "halstead_bugprop": 0.6346613825326376,
+    "halstead_difficulty": 21.0,
+    "halstead_effort": 39983.66709955617,
+    "halstead_timerequired": 2221.3148388642317,
+    "halstead_volume": 1903.9841475979129,
+    "loc": 77,
+    "maintainability_index": 59.52149194069918,
+    "operands_sum": 156,
+    "operands_uniq": 52,
+    "operators_sum": 159,
+    "operators_uniq": 14,
+    "pylint": 100.0,
+    "tiobe": 86.9009900990099,
+    "tiobe_compiler": 100.0,
+    "tiobe_complexity": 12.673267326732674,
+    "tiobe_coverage": 100.0,
+    "tiobe_duplication": 100.0,
+    "tiobe_fanout": 100.0,
+    "tiobe_functional": 100.0,
+    "tiobe_security": 100.0,
+    "tiobe_standard": 100.0
+  },
+  "stats": {
+    "max": {
+      "comment_ratio": 34.32060275396207,
+      "cyclomatic_complexity": 8,
+      "fanout_external": 2,
+      "fanout_internal": 0,
+      "halstead_bugprop": 0.6346613825326376,
+      "halstead_difficulty": 21.0,
+      "halstead_effort": 39983.66709955617,
+      "halstead_timerequired": 2221.3148388642317,
+      "halstead_volume": 1903.9841475979129,
+      "loc": 77,
+      "operands_sum": 156,
+      "operands_uniq": 52,
+      "operators_sum": 159,
+      "operators_uniq": 14
+    },
+    "mean": {
+      "comment_ratio": 34.32060275396207,
+      "cyclomatic_complexity": 8,
+      "fanout_external": 2,
+      "fanout_internal": 0,
+      "halstead_bugprop": 0.6346613825326376,
+      "halstead_difficulty": 21.0,
+      "halstead_effort": 39983.66709955617,
+      "halstead_timerequired": 2221.3148388642317,
+      "halstead_volume": 1903.9841475979129,
+      "loc": 77,
+      "operands_sum": 156,
+      "operands_uniq": 52,
+      "operators_sum": 159,
+      "operators_uniq": 14
+    },
+    "median": {
+      "comment_ratio": 34.32060275396207,
+      "cyclomatic_complexity": 8,
+      "fanout_external": 2,
+      "fanout_internal": 0,
+      "halstead_bugprop": 0.6346613825326376,
+      "halstead_difficulty": 21.0,
+      "halstead_effort": 39983.66709955617,
+      "halstead_timerequired": 2221.3148388642317,
+      "halstead_volume": 1903.9841475979129,
+      "loc": 77,
+      "operands_sum": 156,
+      "operands_uniq": 52,
+      "operators_sum": 159,
+      "operators_uniq": 14
+    },
+    "min": {
+      "comment_ratio": 34.32060275396207,
+      "cyclomatic_complexity": 8,
+      "fanout_external": 2,
+      "fanout_internal": 0,
+      "halstead_bugprop": 0.6346613825326376,
+      "halstead_difficulty": 21.0,
+      "halstead_effort": 39983.66709955617,
+      "halstead_timerequired": 2221.3148388642317,
+      "halstead_volume": 1903.9841475979129,
+      "loc": 77,
+      "operands_sum": 156,
+      "operands_uniq": 52,
+      "operators_sum": 159,
+      "operators_uniq": 14
+    }
+  }
+}
